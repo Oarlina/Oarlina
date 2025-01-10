@@ -20,6 +20,4 @@
 
 ![Oarlina's Stats](https://github-readme-stats.vercel.app/api?username=Oarlina&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![Oarlina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oarlina&theme=vue-dark&hide_border=false) 
-
 ![Oarlina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oarlina&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
