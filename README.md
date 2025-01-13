@@ -11,7 +11,7 @@
   <h2 id="links">Comptétences techniques:</h2>  
   
   - Développement web:  
-       [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,php)](https://skillicons.dev)
+       [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,php,js)](https://skillicons.dev)
   - Cadres et outils:  
     [![My Skills](https://skillicons.dev/icons?i=github,visualstudio)](https://skillicons.dev)
 
