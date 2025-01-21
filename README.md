@@ -2,7 +2,7 @@
   
   <h2 id="links">Oarlina | Développeuse web en formation:</h2>
   <p>Bienvenue! Je m'appelle Rachel, actuellement en remise à 
-    niveau afin de devnir développeuse web et web mobile. Ce dépots illustre 
+    niveau afin de devnir développeuse web et web mobile. Ce dépot illustre 
     mes compétences appris lors de ma formation.</p>
   
   
